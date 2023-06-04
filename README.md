@@ -1,2 +1,2 @@
 # xamp
-aprendientod
+aprendiento
